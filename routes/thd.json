@@ -1,0 +1,88 @@
+{
+  "response": {
+    "status": 0,
+    "generatedAt": "2019-04-10 11:22:52",
+    "timestamp": 1554888172188,
+    "informations": {
+      "message": "Les qualifications ont dÃ©butÃ© le lundi 21 mai. Le tournoi dÃ©bute le dimanche 27 mai",
+      "date": {
+        "day": 20180522,
+        "statusTournament": "IN_QUALIFICATION"
+      }
+    },
+    "content": {
+      "match": {
+        "slotNumber": 1,
+        "slot": "M",
+        "matchId": "QM078",
+        "type": "QM",
+        "typeLabel": "Qualifications Simple Messieurs",
+        "round": 1,
+        "roundLabel": "1er Tour",
+        "lineNumber": 15,
+        "nextMatch": "QM039",
+        "status": "FINISHED",
+        "courtId": 20,
+        "courtName": "Court n°18",
+        "hasStats": true,
+        "hasStatsLvl3": true,
+        "hasStatRadar": true,
+        "date": {
+          "end": 1554819621000,
+          "time": 93
+        },
+        "teamA": {
+          "player1": {
+            "id": 13650,
+            "firstName": "Ernests",
+            "lastName": "GULBIS",
+            "shortName": "E.GULBIS",
+            "country": "LAT",
+            "sex": "M",
+            "service": false,
+            "thumb": "https://fft-rg-site.cdn.prismic.io/fft-rg-site/dd86e54e18565f4eb99fce527294b0bfa7fced36_ernests-gulbis.jpg",
+            "ranking": {
+              "singleRank": 78
+            }
+          },
+          "winner": true
+        },
+        "teamB": {
+          "player1": {
+            "id": 7785,
+            "firstName": "Stephane",
+            "lastName": "ROBERT",
+            "shortName": "S.ROBERT",
+            "country": "FRA",
+            "sex": "M",
+            "service": false,
+            "thumb": "https://fft-rg-site.cdn.prismic.io/fft-rg-site/fc56f578e347b8f4f3cdd37e07f0f1808834b7a9_stephane-robert.jpg",
+            "ranking": {
+              "singleRank": 284,
+              "doubleRank": 223
+            }
+          },
+          "winner": false,
+          "endBy": "N"
+        },
+        "score": {
+          "sets": [
+            {
+              "number": "1",
+              "time": 52,
+              "A": 7,
+              "B": 5
+            },
+            {
+              "number": "2",
+              "time": 41,
+              "A": 6,
+              "B": 4
+            }
+          ]
+        },
+        "setMax": 3
+      }
+    }
+  }
+}

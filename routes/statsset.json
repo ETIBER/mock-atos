@@ -1,0 +1,384 @@
+{
+  "response": {
+    "status": 0,
+    "generatedAt": "2019-05-22 10:27:46",
+    "timestamp": 1558513666136,
+    "informations": {
+      "message": "Pas de match en cours actuellement",
+      "date": {
+        "day": 20180527,
+        "statusTournament": "IN_TOURNAMENT"
+      }
+    },
+    "content": {
+      "statSets": {
+        "MATCH": {
+          "label": "match",
+          "categories": {
+            "RESUME": {
+              "label": "Résumé",
+              "stats": {
+                "EFFECTIVE_PLAYING_TIME": {
+                  "label": "temps de jeu effectif",
+                  "best": "",
+                  "A": "963",
+                  "B": "963"
+                },
+                "POINTS_WON": {
+                  "label": "points gagnés",
+                  "best": "A",
+                  "A": "77",
+                  "B": "65"
+                },
+                "WINNERS": {
+                  "label": "points gagnants",
+                  "best": "A",
+                  "A": "36",
+                  "B": "10"
+                },
+                "UNFORCED_ERRORS": {
+                  "label": "fautes directes",
+                  "best": "B",
+                  "A": "44",
+                  "B": "22"
+                },
+                "FORCED_ERRORS": {
+                  "label": "fautes provoquées",
+                  "best": "B",
+                  "A": "11",
+                  "B": "19"
+                },
+                "NET_POINTS": {
+                  "label": "points au filet",
+                  "best": "A",
+                  "A": "8/13 (61%)",
+                  "B": "4/12 (33%)"
+                },
+                "BREAK_POINTS": {
+                  "label": "balles de break",
+                  "best": "A",
+                  "A": "5/11 (45%)",
+                  "B": "3/10 (30%)"
+                }
+              }
+            },
+            "SERVICE": {
+              "label": "Service",
+              "stats": {
+                "ACES": {
+                  "label": "aces",
+                  "best": "A",
+                  "A": "9",
+                  "B": "1"
+                },
+                "SERVICE_WINNERS": {
+                  "label": "services gagnants",
+                  "best": "A",
+                  "A": "2",
+                  "B": "1"
+                },
+                "DOUBLE_FAULTS": {
+                  "label": "doubles fautes",
+                  "best": "B",
+                  "A": "8",
+                  "B": "3"
+                },
+                "FIRST_SERVE": {
+                  "label": "1er service",
+                  "best": "A",
+                  "A": "41/70 (58%)",
+                  "B": "37/72 (51%)"
+                },
+                "POINTS_WON_FIRST_BALL": {
+                  "label": "points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "27/41 (65%)",
+                  "B": "19/37 (51%)"
+                },
+                "POINTS_WON_SECOND_BALL": {
+                  "label": "points gagnés sur 2e balle",
+                  "best": "",
+                  "A": "14/29 (48%)",
+                  "B": "17/35 (48%)"
+                },
+                "MAX_SPEED": {
+                  "label": "vitesse max",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                }
+              }
+            },
+            "RETURN": {
+              "label": "Retour",
+              "stats": {
+                "RETURN_POINTS": {
+                  "label": "points sur retour",
+                  "best": "A",
+                  "A": "36/72 (50%)",
+                  "B": "29/70 (42%)"
+                },
+                "FIRST_SERVE_RETURN": {
+                  "label": "points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "18/37 (49%)",
+                  "B": "14/41 (35%)"
+                },
+                "SECOND_SERVE_RETURN": {
+                  "label": "points gagnés sur 2e balle",
+                  "best": "",
+                  "A": "18/35 (52%)",
+                  "B": "15/29 (52%)"
+                }
+              }
+            }
+          }
+        },
+        "SET1": {
+          "label": "set 1",
+          "categories": {
+            "RESUME": {
+              "label": "Résumé",
+              "stats": {
+                "EFFECTIVE_PLAYING_TIME": {
+                  "label": "temps de jeu effectif",
+                  "best": "",
+                  "A": "548",
+                  "B": "548"
+                },
+                "POINTS_WON": {
+                  "label": "points gagnés",
+                  "best": "A",
+                  "A": "41",
+                  "B": "36"
+                },
+                "WINNERS": {
+                  "label": "points gagnants",
+                  "best": "A",
+                  "A": "22",
+                  "B": "4"
+                },
+                "UNFORCED_ERRORS": {
+                  "label": "fautes directes",
+                  "best": "B",
+                  "A": "27",
+                  "B": "10"
+                },
+                "FORCED_ERRORS": {
+                  "label": "fautes provoquées",
+                  "best": "B",
+                  "A": "5",
+                  "B": "9"
+                },
+                "NET_POINTS": {
+                  "label": "points au filet",
+                  "best": "A",
+                  "A": "7/9 (77%)",
+                  "B": "2/6 (33%)"
+                },
+                "BREAK_POINTS": {
+                  "label": "balles de break",
+                  "best": "A",
+                  "A": "3/3 (100%)",
+                  "B": "2/5 (40%)"
+                }
+              }
+            },
+            "SERVICE": {
+              "label": "Service",
+              "stats": {
+                "ACES": {
+                  "label": "aces",
+                  "best": "A",
+                  "A": "4",
+                  "B": "1"
+                },
+                "SERVICE_WINNERS": {
+                  "label": "services gagnants",
+                  "best": "A",
+                  "A": "2",
+                  "B": "0"
+                },
+                "DOUBLE_FAULTS": {
+                  "label": "doubles fautes",
+                  "best": "B",
+                  "A": "3",
+                  "B": "1"
+                },
+                "FIRST_SERVE": {
+                  "label": "1er service",
+                  "best": "A",
+                  "A": "25/39 (64%)",
+                  "B": "17/38 (44%)"
+                },
+                "POINTS_WON_FIRST_BALL": {
+                  "label": "points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "14/25 (56%)",
+                  "B": "8/17 (47%)"
+                },
+                "POINTS_WON_SECOND_BALL": {
+                  "label": "points gagnés sur 2e balle",
+                  "best": "A",
+                  "A": "8/14 (57%)",
+                  "B": "11/21 (52%)"
+                },
+                "MAX_SPEED": {
+                  "label": "vitesse max",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                }
+              }
+            },
+            "RETURN": {
+              "label": "Retour",
+              "stats": {
+                "RETURN_POINTS": {
+                  "label": "points sur retour",
+                  "best": "A",
+                  "A": "19/38 (50%)",
+                  "B": "17/39 (44%)"
+                },
+                "FIRST_SERVE_RETURN": {
+                  "label": "points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "9/17 (53%)",
+                  "B": "11/25 (44%)"
+                },
+                "SECOND_SERVE_RETURN": {
+                  "label": "points gagnés sur 2e balle",
+                  "best": "A",
+                  "A": "10/21 (48%)",
+                  "B": "6/14 (43%)"
+                }
+              }
+            }
+          }
+        },
+        "SET2": {
+          "label": "set 2",
+          "categories": {
+            "RESUME": {
+              "label": "Résumé",
+              "stats": {
+                "EFFECTIVE_PLAYING_TIME": {
+                  "label": "temps de jeu effectif",
+                  "best": "",
+                  "A": "415",
+                  "B": "415"
+                },
+                "POINTS_WON": {
+                  "label": "points gagnés",
+                  "best": "A",
+                  "A": "36",
+                  "B": "29"
+                },
+                "WINNERS": {
+                  "label": "points gagnants",
+                  "best": "A",
+                  "A": "14",
+                  "B": "6"
+                },
+                "UNFORCED_ERRORS": {
+                  "label": "fautes directes",
+                  "best": "B",
+                  "A": "17",
+                  "B": "12"
+                },
+                "FORCED_ERRORS": {
+                  "label": "fautes provoquées",
+                  "best": "B",
+                  "A": "6",
+                  "B": "10"
+                },
+                "NET_POINTS": {
+                  "label": "points au filet",
+                  "best": "B",
+                  "A": "1/4 (25%)",
+                  "B": "2/6 (33%)"
+                },
+                "BREAK_POINTS": {
+                  "label": "balles de break",
+                  "best": "A",
+                  "A": "2/8 (25%)",
+                  "B": "1/5 (20%)"
+                }
+              }
+            },
+            "SERVICE": {
+              "label": "Service",
+              "stats": {
+                "ACES": {
+                  "label": "aces",
+                  "best": "A",
+                  "A": "5",
+                  "B": "0"
+                },
+                "SERVICE_WINNERS": {
+                  "label": "services gagnants",
+                  "best": "B",
+                  "A": "0",
+                  "B": "1"
+                },
+                "DOUBLE_FAULTS": {
+                  "label": "doubles fautes",
+                  "best": "B",
+                  "A": "5",
+                  "B": "2"
+                },
+                "FIRST_SERVE": {
+                  "label": "1er service",
+                  "best": "B",
+                  "A": "16/31 (51%)",
+                  "B": "20/34 (58%)"
+                },
+                "POINTS_WON_FIRST_BALL": {
+                  "label": "points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "13/16 (81%)",
+                  "B": "11/20 (55%)"
+                },
+                "POINTS_WON_SECOND_BALL": {
+                  "label": "points gagnés sur 2e balle",
+                  "best": "B",
+                  "A": "6/15 (40%)",
+                  "B": "6/14 (42%)"
+                },
+                "MAX_SPEED": {
+                  "label": "vitesse max",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                }
+              }
+            },
+            "RETURN": {
+              "label": "Retour",
+              "stats": {
+                "RETURN_POINTS": {
+                  "label": "points sur retour",
+                  "best": "A",
+                  "A": "17/34 (50%)",
+                  "B": "12/31 (39%)"
+                },
+                "FIRST_SERVE_RETURN": {
+                  "label": "points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "9/20 (45%)",
+                  "B": "3/16 (19%)"
+                },
+                "SECOND_SERVE_RETURN": {
+                  "label": "points gagnés sur 2e balle",
+                  "best": "B",
+                  "A": "8/14 (58%)",
+                  "B": "9/15 (60%)"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

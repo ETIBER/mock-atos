@@ -1,0 +1,2952 @@
+{
+  "response": {
+    "status": 0,
+    "generatedAt": "2019-05-22 10:38:31",
+    "timestamp": 1558514311700,
+    "informations": {
+      "message": "Pas de match en cours actuellement",
+      "date": {
+        "day": 20180527,
+        "statusTournament": "IN_TOURNAMENT"
+      }
+    },
+    "content": {
+      "statServices": {
+        "MATCH": {
+          "label": "match",
+          "categories": {
+            "MAX_SPEED": {
+              "label": "Service le plus rapide",
+              "stats": {
+                "MAX_SPEED_1_DEUCE_WIDE": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "179"
+                },
+                "MAX_SPEED_1_DEUCE_BODY": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_1_DEUCE_CENTER": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "193"
+                },
+                "MAX_SPEED_1_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "187"
+                },
+                "MAX_SPEED_1_ADVANTAGE_BODY": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_1_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "189"
+                },
+                "MAX_SPEED_2_DEUCE_WIDE": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "156",
+                  "B": "137"
+                },
+                "MAX_SPEED_2_DEUCE_BODY": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "176",
+                  "B": "138"
+                },
+                "MAX_SPEED_2_DEUCE_CENTER": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "186",
+                  "B": "142"
+                },
+                "MAX_SPEED_2_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "166",
+                  "B": "127"
+                },
+                "MAX_SPEED_2_ADVANTAGE_BODY": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "177",
+                  "B": "139"
+                },
+                "MAX_SPEED_2_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "174",
+                  "B": "132"
+                },
+                "MAX_SPEED_DEUCE_WIDE": {
+                  "label": "Vitesse max côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "179"
+                },
+                "MAX_SPEED_DEUCE_BODY": {
+                  "label": "Vitesse max côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_DEUCE_CENTER": {
+                  "label": "Vitesse max côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "193"
+                },
+                "MAX_SPEED_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "187"
+                },
+                "MAX_SPEED_ADVANTAGE_BODY": {
+                  "label": "Vitesse max côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "189"
+                },
+                "MAX_SPEED_1_WIDE": {
+                  "label": "Vitesse max 1er service zone 'wide'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "187"
+                },
+                "MAX_SPEED_1_BODY": {
+                  "label": "Vitesse max 1er service zone 'body'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_1_CENTER": {
+                  "label": "Vitesse max 1er service zone 'center'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "193"
+                },
+                "MAX_SPEED_2_WIDE": {
+                  "label": "Vitesse max 2nd service zone 'wide'",
+                  "best": "A",
+                  "A": "166",
+                  "B": "137"
+                },
+                "MAX_SPEED_2_BODY": {
+                  "label": "Vitesse max 2nd service zone 'body'",
+                  "best": "A",
+                  "A": "177",
+                  "B": "139"
+                },
+                "MAX_SPEED_2_CENTER": {
+                  "label": "Vitesse max 2nd service zone 'center'",
+                  "best": "A",
+                  "A": "186",
+                  "B": "142"
+                },
+                "MAX_SPEED_WIDE": {
+                  "label": "Vitesse max zone 'wide'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "187"
+                },
+                "MAX_SPEED_BODY": {
+                  "label": "Vitesse max zone 'body'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_CENTER": {
+                  "label": "Vitesse max zone 'center'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "193"
+                },
+                "MAX_SPEED_1_DEUCE": {
+                  "label": "Vitesse max 1er service côté 'égalité'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_1_ADVANTAGE": {
+                  "label": "Vitesse max 1er service côté 'avantage'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_2_DEUCE": {
+                  "label": "Vitesse max 2nd service côté 'égalité'",
+                  "best": "A",
+                  "A": "186",
+                  "B": "142"
+                },
+                "MAX_SPEED_2_ADVANTAGE": {
+                  "label": "Vitesse max 2nd service côté 'avantage'",
+                  "best": "A",
+                  "A": "177",
+                  "B": "139"
+                },
+                "MAX_SPEED_DEUCE": {
+                  "label": "Vitesse max côté 'égalité'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_ADVANTAGE": {
+                  "label": "Vitesse max côté 'avantage'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_1": {
+                  "label": "Vitesse max 1er service",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_2": {
+                  "label": "Vitesse max 2nd service",
+                  "best": "A",
+                  "A": "186",
+                  "B": "142"
+                },
+                "MAX_SPEED": {
+                  "label": "Vitesse max",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                }
+              }
+            },
+            "AVG_SPEED": {
+              "label": "Service vitesse moyenne",
+              "stats": {
+                "AVG_SPEED_1_DEUCE_WIDE": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "189",
+                  "B": "169"
+                },
+                "AVG_SPEED_1_DEUCE_BODY": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "195",
+                  "B": "183"
+                },
+                "AVG_SPEED_1_DEUCE_CENTER": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "198",
+                  "B": "187"
+                },
+                "AVG_SPEED_1_ADVANTAGE_WIDE": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "198",
+                  "B": "184"
+                },
+                "AVG_SPEED_1_ADVANTAGE_BODY": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "191"
+                },
+                "AVG_SPEED_1_ADVANTAGE_CENTER": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "187"
+                },
+                "AVG_SPEED_2_DEUCE_WIDE": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "156",
+                  "B": "132"
+                },
+                "AVG_SPEED_2_DEUCE_BODY": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "164",
+                  "B": "129"
+                },
+                "AVG_SPEED_2_DEUCE_CENTER": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "175",
+                  "B": "136"
+                },
+                "AVG_SPEED_2_ADVANTAGE_WIDE": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "159",
+                  "B": "123"
+                },
+                "AVG_SPEED_2_ADVANTAGE_BODY": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "164",
+                  "B": "129"
+                },
+                "AVG_SPEED_2_ADVANTAGE_CENTER": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "167",
+                  "B": "129"
+                },
+                "AVG_SPEED_1": {
+                  "label": "Vitesse moyenne 1er service",
+                  "best": "A",
+                  "A": "197",
+                  "B": "183"
+                },
+                "AVG_SPEED_2": {
+                  "label": "Vitesse moyenne 2e service",
+                  "best": "A",
+                  "A": "165",
+                  "B": "129"
+                }
+              }
+            },
+            "WON_POINTS": {
+              "label": "Points gagnés sur service",
+              "stats": {
+                "WON_POINTS_1_DEUCE_WIDE": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "4"
+                },
+                "WON_POINTS_1_DEUCE_BODY": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "3",
+                  "B": "3"
+                },
+                "WON_POINTS_1_DEUCE_CENTER": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "4"
+                },
+                "WON_POINTS_1_ADVANTAGE_WIDE": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "7",
+                  "B": "3"
+                },
+                "WON_POINTS_1_ADVANTAGE_BODY": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "1"
+                },
+                "WON_POINTS_1_ADVANTAGE_CENTER": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "7",
+                  "B": "4"
+                },
+                "WON_POINTS_2_DEUCE_WIDE": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "3"
+                },
+                "WON_POINTS_2_DEUCE_BODY": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "5",
+                  "B": "5"
+                },
+                "WON_POINTS_2_DEUCE_CENTER": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "1",
+                  "B": "1"
+                },
+                "WON_POINTS_2_ADVANTAGE_WIDE": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'wide'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "2"
+                },
+                "WON_POINTS_2_ADVANTAGE_BODY": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "3"
+                },
+                "WON_POINTS_2_ADVANTAGE_CENTER": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "WON_POINTS_DEUCE_WIDE": {
+                  "label": "Points sur côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "7"
+                },
+                "WON_POINTS_DEUCE_BODY": {
+                  "label": "Points sur côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "8",
+                  "B": "8"
+                },
+                "WON_POINTS_DEUCE_CENTER": {
+                  "label": "Points sur côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "6",
+                  "B": "5"
+                },
+                "WON_POINTS_ADVANTAGE_WIDE": {
+                  "label": "Points sur côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "7",
+                  "B": "5"
+                },
+                "WON_POINTS_ADVANTAGE_BODY": {
+                  "label": "Points sur côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "7",
+                  "B": "4"
+                },
+                "WON_POINTS_ADVANTAGE_CENTER": {
+                  "label": "Points sur côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "10",
+                  "B": "6"
+                },
+                "WON_POINTS_1_WIDE": {
+                  "label": "Points sur 1er service zone 'wide'",
+                  "best": "A",
+                  "A": "9",
+                  "B": "7"
+                },
+                "WON_POINTS_1_BODY": {
+                  "label": "Points sur 1er service zone 'body'",
+                  "best": "A",
+                  "A": "6",
+                  "B": "4"
+                },
+                "WON_POINTS_1_CENTER": {
+                  "label": "Points sur 1er service zone 'center'",
+                  "best": "A",
+                  "A": "12",
+                  "B": "8"
+                },
+                "WON_POINTS_2_WIDE": {
+                  "label": "Points sur 2nd service zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "5"
+                },
+                "WON_POINTS_2_BODY": {
+                  "label": "Points sur 2nd service zone 'body'",
+                  "best": "A",
+                  "A": "9",
+                  "B": "8"
+                },
+                "WON_POINTS_2_CENTER": {
+                  "label": "Points sur 2nd service zone 'center'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "3"
+                },
+                "WON_POINTS_WIDE": {
+                  "label": "Points zone 'wide'",
+                  "best": "B",
+                  "A": "10",
+                  "B": "12"
+                },
+                "WON_POINTS_BODY": {
+                  "label": "Points zone 'body'",
+                  "best": "A",
+                  "A": "15",
+                  "B": "12"
+                },
+                "WON_POINTS_CENTER": {
+                  "label": "Points zone 'center'",
+                  "best": "A",
+                  "A": "16",
+                  "B": "11"
+                },
+                "WON_POINTS_1_DEUCE": {
+                  "label": "Points sur 1er service côté 'égalité'",
+                  "best": "B",
+                  "A": "10",
+                  "B": "11"
+                },
+                "WON_POINTS_1_ADVANTAGE": {
+                  "label": "Points sur 1er service côté 'avantage'",
+                  "best": "A",
+                  "A": "17",
+                  "B": "8"
+                },
+                "WON_POINTS_2_DEUCE": {
+                  "label": "Points sur 2nd service côté 'égalité'",
+                  "best": "B",
+                  "A": "7",
+                  "B": "9"
+                },
+                "WON_POINTS_2_ADVANTAGE": {
+                  "label": "Points sur 2nd service côté 'avantage'",
+                  "best": "",
+                  "A": "7",
+                  "B": "7"
+                },
+                "WON_POINTS_DEUCE": {
+                  "label": "Points gagnés sur côté 'égalité'",
+                  "best": "B",
+                  "A": "17",
+                  "B": "20"
+                },
+                "WON_POINTS_ADVANTAGE": {
+                  "label": "Points gagnés sur côté 'avantage'",
+                  "best": "A",
+                  "A": "24",
+                  "B": "15"
+                },
+                "WON_POINTS_1": {
+                  "label": "Points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "27",
+                  "B": "19"
+                },
+                "WON_POINTS_2": {
+                  "label": "Points gagnés sur 2e balle",
+                  "best": "B",
+                  "A": "14",
+                  "B": "16"
+                },
+                "WON_POINTS": {
+                  "label": "Points gagnés",
+                  "best": "A",
+                  "A": "41",
+                  "B": "35"
+                }
+              }
+            },
+            "SUCCESSFUL_SERVICES": {
+              "label": "Service réussis",
+              "stats": {
+                "SUCCESSFUL_SERVICES_1_DEUCE_WIDE": {
+                  "label": "1er services côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE_BODY": {
+                  "label": "1er services côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "8",
+                  "B": "4"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE_CENTER": {
+                  "label": "1er services côté 'égalité' zone 'center'",
+                  "best": "B",
+                  "A": "8",
+                  "B": "10"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_WIDE": {
+                  "label": "1er services côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "8",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_BODY": {
+                  "label": "1er services côté 'avantage' zone 'body'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_CENTER": {
+                  "label": "1er services côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "10",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_WIDE": {
+                  "label": "2nd services côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_BODY": {
+                  "label": "2nd services côté 'égalité' zone 'body'",
+                  "best": "B",
+                  "A": "6",
+                  "B": "10"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_CENTER": {
+                  "label": "2nd services côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_WIDE": {
+                  "label": "2nd services côté 'avantage' zone 'wide'",
+                  "best": "",
+                  "A": "2",
+                  "B": "2"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_BODY": {
+                  "label": "2nd services côté 'avantage' zone 'body'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "10"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_CENTER": {
+                  "label": "2nd services côté 'avantage' zone 'center'",
+                  "best": "",
+                  "A": "4",
+                  "B": "4"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_WIDE": {
+                  "label": "Services côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "9"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_BODY": {
+                  "label": "Services côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "14",
+                  "B": "14"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_CENTER": {
+                  "label": "Services côté 'égalité' zone 'center'",
+                  "best": "B",
+                  "A": "11",
+                  "B": "12"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_WIDE": {
+                  "label": "Services côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "10",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_BODY": {
+                  "label": "Services côté 'avantage' zone 'body'",
+                  "best": "B",
+                  "A": "9",
+                  "B": "15"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_CENTER": {
+                  "label": "Services côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "14",
+                  "B": "10"
+                },
+                "SUCCESSFUL_SERVICES_1_WIDE": {
+                  "label": "1er services zone 'wide'",
+                  "best": "A",
+                  "A": "11",
+                  "B": "9"
+                },
+                "SUCCESSFUL_SERVICES_1_BODY": {
+                  "label": "1er services zone 'body'",
+                  "best": "A",
+                  "A": "12",
+                  "B": "9"
+                },
+                "SUCCESSFUL_SERVICES_1_CENTER": {
+                  "label": "1er services zone 'center'",
+                  "best": "A",
+                  "A": "18",
+                  "B": "16"
+                },
+                "SUCCESSFUL_SERVICES_2_WIDE": {
+                  "label": "2nd services zone 'wide'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_2_BODY": {
+                  "label": "2nd services zone 'body'",
+                  "best": "B",
+                  "A": "11",
+                  "B": "20"
+                },
+                "SUCCESSFUL_SERVICES_2_CENTER": {
+                  "label": "2nd services zone 'center'",
+                  "best": "A",
+                  "A": "7",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_WIDE": {
+                  "label": "Services zone 'wide'",
+                  "best": "",
+                  "A": "14",
+                  "B": "14"
+                },
+                "SUCCESSFUL_SERVICES_BODY": {
+                  "label": "Services zone 'body'",
+                  "best": "B",
+                  "A": "23",
+                  "B": "29"
+                },
+                "SUCCESSFUL_SERVICES_CENTER": {
+                  "label": "Services zone 'center'",
+                  "best": "A",
+                  "A": "25",
+                  "B": "22"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE": {
+                  "label": "1er services côté 'égalité'",
+                  "best": "B",
+                  "A": "19",
+                  "B": "20"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE": {
+                  "label": "1er services côté 'avantage'",
+                  "best": "A",
+                  "A": "22",
+                  "B": "14"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE": {
+                  "label": "2nd services côté 'égalité'",
+                  "best": "B",
+                  "A": "10",
+                  "B": "15"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE": {
+                  "label": "2nd services côté 'avantage'",
+                  "best": "B",
+                  "A": "11",
+                  "B": "16"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE": {
+                  "label": "Services côté 'égalité'",
+                  "best": "B",
+                  "A": "29",
+                  "B": "35"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE": {
+                  "label": "Services côté 'avantage'",
+                  "best": "A",
+                  "A": "33",
+                  "B": "30"
+                },
+                "SUCCESSFUL_SERVICES_1": {
+                  "label": "1er services",
+                  "best": "A",
+                  "A": "41",
+                  "B": "34"
+                },
+                "SUCCESSFUL_SERVICES_2": {
+                  "label": "2nd services",
+                  "best": "B",
+                  "A": "21",
+                  "B": "31"
+                },
+                "SUCCESSFUL_SERVICES": {
+                  "label": "Services",
+                  "best": "B",
+                  "A": "62",
+                  "B": "65"
+                }
+              }
+            },
+            "ACES": {
+              "label": "Nombre d'aces",
+              "stats": {
+                "ACES_1_DEUCE_WIDE": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_DEUCE_BODY": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_DEUCE_CENTER": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_WIDE": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_BODY": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_CENTER": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "1"
+                },
+                "ACES_2_DEUCE_WIDE": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_DEUCE_BODY": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_DEUCE_CENTER": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_WIDE": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_BODY": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_CENTER": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_DEUCE_WIDE": {
+                  "label": "Aces sur services côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_DEUCE_BODY": {
+                  "label": "Aces sur services côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_DEUCE_CENTER": {
+                  "label": "Aces sur services côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_WIDE": {
+                  "label": "Aces sur services côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_BODY": {
+                  "label": "Aces sur services côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_CENTER": {
+                  "label": "Aces sur services côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "1"
+                },
+                "ACES_1_WIDE": {
+                  "label": "Aces sur 1er service zone 'wide'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "0"
+                },
+                "ACES_1_BODY": {
+                  "label": "Aces sur 1er service zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_CENTER": {
+                  "label": "Aces sur 1er service zone 'center'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "1"
+                },
+                "ACES_2_WIDE": {
+                  "label": "Aces sur 2nd service zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_BODY": {
+                  "label": "Aces sur 2nd service zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_CENTER": {
+                  "label": "Aces sur 2nd service zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_WIDE": {
+                  "label": "Aces sur zone 'wide'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "0"
+                },
+                "ACES_BODY": {
+                  "label": "Aces sur zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_CENTER": {
+                  "label": "Aces sur zone 'center'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "1"
+                },
+                "ACES_1_DEUCE": {
+                  "label": "Aces sur 1er service côté 'égalité'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE": {
+                  "label": "Aces sur 1er service côté 'avantage'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "1"
+                },
+                "ACES_2_DEUCE": {
+                  "label": "Aces sur 2nd service côté 'égalité'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE": {
+                  "label": "Aces sur 2nd service côté 'avantage'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_DEUCE": {
+                  "label": "Aces sur services côté 'égalité'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE": {
+                  "label": "Aces sur services côté 'avantage'",
+                  "best": "A",
+                  "A": "6",
+                  "B": "1"
+                },
+                "ACES_1": {
+                  "label": "Aces sur 1er service",
+                  "best": "A",
+                  "A": "8",
+                  "B": "1"
+                },
+                "ACES_2": {
+                  "label": "Aces sur 2nd service",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES": {
+                  "label": "Aces",
+                  "best": "A",
+                  "A": "9",
+                  "B": "1"
+                }
+              }
+            }
+          }
+        },
+        "SET1": {
+          "label": "set 1",
+          "categories": {
+            "MAX_SPEED": {
+              "label": "Service le plus rapide",
+              "stats": {
+                "MAX_SPEED_1_DEUCE_WIDE": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "179"
+                },
+                "MAX_SPEED_1_DEUCE_BODY": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "162"
+                },
+                "MAX_SPEED_1_DEUCE_CENTER": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "192"
+                },
+                "MAX_SPEED_1_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "0"
+                },
+                "MAX_SPEED_1_ADVANTAGE_BODY": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_1_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "203",
+                  "B": "189"
+                },
+                "MAX_SPEED_2_DEUCE_WIDE": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "137"
+                },
+                "MAX_SPEED_2_DEUCE_BODY": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "170",
+                  "B": "135"
+                },
+                "MAX_SPEED_2_DEUCE_CENTER": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "186",
+                  "B": "130"
+                },
+                "MAX_SPEED_2_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "166",
+                  "B": "0"
+                },
+                "MAX_SPEED_2_ADVANTAGE_BODY": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "168",
+                  "B": "139"
+                },
+                "MAX_SPEED_2_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "174",
+                  "B": "132"
+                },
+                "MAX_SPEED_DEUCE_WIDE": {
+                  "label": "Vitesse max côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "179"
+                },
+                "MAX_SPEED_DEUCE_BODY": {
+                  "label": "Vitesse max côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "162"
+                },
+                "MAX_SPEED_DEUCE_CENTER": {
+                  "label": "Vitesse max côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "192"
+                },
+                "MAX_SPEED_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "0"
+                },
+                "MAX_SPEED_ADVANTAGE_BODY": {
+                  "label": "Vitesse max côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "203",
+                  "B": "189"
+                },
+                "MAX_SPEED_1_WIDE": {
+                  "label": "Vitesse max 1er service zone 'wide'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "179"
+                },
+                "MAX_SPEED_1_BODY": {
+                  "label": "Vitesse max 1er service zone 'body'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_1_CENTER": {
+                  "label": "Vitesse max 1er service zone 'center'",
+                  "best": "A",
+                  "A": "203",
+                  "B": "192"
+                },
+                "MAX_SPEED_2_WIDE": {
+                  "label": "Vitesse max 2nd service zone 'wide'",
+                  "best": "A",
+                  "A": "166",
+                  "B": "137"
+                },
+                "MAX_SPEED_2_BODY": {
+                  "label": "Vitesse max 2nd service zone 'body'",
+                  "best": "A",
+                  "A": "170",
+                  "B": "139"
+                },
+                "MAX_SPEED_2_CENTER": {
+                  "label": "Vitesse max 2nd service zone 'center'",
+                  "best": "A",
+                  "A": "186",
+                  "B": "132"
+                },
+                "MAX_SPEED_WIDE": {
+                  "label": "Vitesse max zone 'wide'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "179"
+                },
+                "MAX_SPEED_BODY": {
+                  "label": "Vitesse max zone 'body'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_CENTER": {
+                  "label": "Vitesse max zone 'center'",
+                  "best": "A",
+                  "A": "203",
+                  "B": "192"
+                },
+                "MAX_SPEED_1_DEUCE": {
+                  "label": "Vitesse max 1er service côté 'égalité'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "192"
+                },
+                "MAX_SPEED_1_ADVANTAGE": {
+                  "label": "Vitesse max 1er service côté 'avantage'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_2_DEUCE": {
+                  "label": "Vitesse max 2nd service côté 'égalité'",
+                  "best": "A",
+                  "A": "186",
+                  "B": "137"
+                },
+                "MAX_SPEED_2_ADVANTAGE": {
+                  "label": "Vitesse max 2nd service côté 'avantage'",
+                  "best": "A",
+                  "A": "174",
+                  "B": "139"
+                },
+                "MAX_SPEED_DEUCE": {
+                  "label": "Vitesse max côté 'égalité'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "192"
+                },
+                "MAX_SPEED_ADVANTAGE": {
+                  "label": "Vitesse max côté 'avantage'",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_1": {
+                  "label": "Vitesse max 1er service",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                },
+                "MAX_SPEED_2": {
+                  "label": "Vitesse max 2nd service",
+                  "best": "A",
+                  "A": "186",
+                  "B": "139"
+                },
+                "MAX_SPEED": {
+                  "label": "Vitesse max",
+                  "best": "A",
+                  "A": "206",
+                  "B": "193"
+                }
+              }
+            },
+            "AVG_SPEED": {
+              "label": "Service vitesse moyenne",
+              "stats": {
+                "AVG_SPEED_1_DEUCE_WIDE": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "194",
+                  "B": "171"
+                },
+                "AVG_SPEED_1_DEUCE_BODY": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "195",
+                  "B": "162"
+                },
+                "AVG_SPEED_1_DEUCE_CENTER": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "198",
+                  "B": "185"
+                },
+                "AVG_SPEED_1_ADVANTAGE_WIDE": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "0"
+                },
+                "AVG_SPEED_1_ADVANTAGE_BODY": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "191"
+                },
+                "AVG_SPEED_1_ADVANTAGE_CENTER": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "198",
+                  "B": "186"
+                },
+                "AVG_SPEED_2_DEUCE_WIDE": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "132"
+                },
+                "AVG_SPEED_2_DEUCE_BODY": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "163",
+                  "B": "124"
+                },
+                "AVG_SPEED_2_DEUCE_CENTER": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "179",
+                  "B": "130"
+                },
+                "AVG_SPEED_2_ADVANTAGE_WIDE": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "166",
+                  "B": "0"
+                },
+                "AVG_SPEED_2_ADVANTAGE_BODY": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "160",
+                  "B": "126"
+                },
+                "AVG_SPEED_2_ADVANTAGE_CENTER": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "171",
+                  "B": "129"
+                },
+                "AVG_SPEED_1": {
+                  "label": "Vitesse moyenne 1er service",
+                  "best": "A",
+                  "A": "197",
+                  "B": "182"
+                },
+                "AVG_SPEED_2": {
+                  "label": "Vitesse moyenne 2e service",
+                  "best": "A",
+                  "A": "166",
+                  "B": "127"
+                }
+              }
+            },
+            "WON_POINTS": {
+              "label": "Points gagnés sur service",
+              "stats": {
+                "WON_POINTS_1_DEUCE_WIDE": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "3"
+                },
+                "WON_POINTS_1_DEUCE_BODY": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "1"
+                },
+                "WON_POINTS_1_DEUCE_CENTER": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "2",
+                  "B": "2"
+                },
+                "WON_POINTS_1_ADVANTAGE_WIDE": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "0"
+                },
+                "WON_POINTS_1_ADVANTAGE_BODY": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "WON_POINTS_1_ADVANTAGE_CENTER": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "WON_POINTS_2_DEUCE_WIDE": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "3"
+                },
+                "WON_POINTS_2_DEUCE_BODY": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'body'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "3"
+                },
+                "WON_POINTS_2_DEUCE_CENTER": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "WON_POINTS_2_ADVANTAGE_WIDE": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "WON_POINTS_2_ADVANTAGE_BODY": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "WON_POINTS_2_ADVANTAGE_CENTER": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'center'",
+                  "best": "",
+                  "A": "2",
+                  "B": "2"
+                },
+                "WON_POINTS_DEUCE_WIDE": {
+                  "label": "Points sur côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "6"
+                },
+                "WON_POINTS_DEUCE_BODY": {
+                  "label": "Points sur côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "4"
+                },
+                "WON_POINTS_DEUCE_CENTER": {
+                  "label": "Points sur côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "WON_POINTS_ADVANTAGE_WIDE": {
+                  "label": "Points sur côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "0"
+                },
+                "WON_POINTS_ADVANTAGE_BODY": {
+                  "label": "Points sur côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "2"
+                },
+                "WON_POINTS_ADVANTAGE_CENTER": {
+                  "label": "Points sur côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "4"
+                },
+                "WON_POINTS_1_WIDE": {
+                  "label": "Points sur 1er service zone 'wide'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "3"
+                },
+                "WON_POINTS_1_BODY": {
+                  "label": "Points sur 1er service zone 'body'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "1"
+                },
+                "WON_POINTS_1_CENTER": {
+                  "label": "Points sur 1er service zone 'center'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "4"
+                },
+                "WON_POINTS_2_WIDE": {
+                  "label": "Points sur 2nd service zone 'wide'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "3"
+                },
+                "WON_POINTS_2_BODY": {
+                  "label": "Points sur 2nd service zone 'body'",
+                  "best": "",
+                  "A": "5",
+                  "B": "5"
+                },
+                "WON_POINTS_2_CENTER": {
+                  "label": "Points sur 2nd service zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "WON_POINTS_WIDE": {
+                  "label": "Points zone 'wide'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "6"
+                },
+                "WON_POINTS_BODY": {
+                  "label": "Points zone 'body'",
+                  "best": "A",
+                  "A": "9",
+                  "B": "6"
+                },
+                "WON_POINTS_CENTER": {
+                  "label": "Points zone 'center'",
+                  "best": "A",
+                  "A": "8",
+                  "B": "6"
+                },
+                "WON_POINTS_1_DEUCE": {
+                  "label": "Points sur 1er service côté 'égalité'",
+                  "best": "",
+                  "A": "6",
+                  "B": "6"
+                },
+                "WON_POINTS_1_ADVANTAGE": {
+                  "label": "Points sur 1er service côté 'avantage'",
+                  "best": "A",
+                  "A": "8",
+                  "B": "2"
+                },
+                "WON_POINTS_2_DEUCE": {
+                  "label": "Points sur 2nd service côté 'égalité'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "6"
+                },
+                "WON_POINTS_2_ADVANTAGE": {
+                  "label": "Points sur 2nd service côté 'avantage'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "4"
+                },
+                "WON_POINTS_DEUCE": {
+                  "label": "Points gagnés sur côté 'égalité'",
+                  "best": "B",
+                  "A": "9",
+                  "B": "12"
+                },
+                "WON_POINTS_ADVANTAGE": {
+                  "label": "Points gagnés sur côté 'avantage'",
+                  "best": "A",
+                  "A": "13",
+                  "B": "6"
+                },
+                "WON_POINTS_1": {
+                  "label": "Points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "14",
+                  "B": "8"
+                },
+                "WON_POINTS_2": {
+                  "label": "Points gagnés sur 2e balle",
+                  "best": "B",
+                  "A": "8",
+                  "B": "10"
+                },
+                "WON_POINTS": {
+                  "label": "Points gagnés",
+                  "best": "A",
+                  "A": "22",
+                  "B": "18"
+                }
+              }
+            },
+            "SUCCESSFUL_SERVICES": {
+              "label": "Service réussis",
+              "stats": {
+                "SUCCESSFUL_SERVICES_1_DEUCE_WIDE": {
+                  "label": "1er services côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE_BODY": {
+                  "label": "1er services côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "6",
+                  "B": "1"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE_CENTER": {
+                  "label": "1er services côté 'égalité' zone 'center'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_WIDE": {
+                  "label": "1er services côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "0"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_BODY": {
+                  "label": "1er services côté 'avantage' zone 'body'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_CENTER": {
+                  "label": "1er services côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "4"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_WIDE": {
+                  "label": "2nd services côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_BODY": {
+                  "label": "2nd services côté 'égalité' zone 'body'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_CENTER": {
+                  "label": "2nd services côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "1"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_WIDE": {
+                  "label": "2nd services côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_BODY": {
+                  "label": "2nd services côté 'avantage' zone 'body'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_CENTER": {
+                  "label": "2nd services côté 'avantage' zone 'center'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "4"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_WIDE": {
+                  "label": "Services côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_BODY": {
+                  "label": "Services côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "9",
+                  "B": "7"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_CENTER": {
+                  "label": "Services côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "7",
+                  "B": "7"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_WIDE": {
+                  "label": "Services côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "6",
+                  "B": "0"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_BODY": {
+                  "label": "Services côté 'avantage' zone 'body'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "8"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_CENTER": {
+                  "label": "Services côté 'avantage' zone 'center'",
+                  "best": "B",
+                  "A": "7",
+                  "B": "8"
+                },
+                "SUCCESSFUL_SERVICES_1_WIDE": {
+                  "label": "1er services zone 'wide'",
+                  "best": "A",
+                  "A": "7",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_1_BODY": {
+                  "label": "1er services zone 'body'",
+                  "best": "A",
+                  "A": "8",
+                  "B": "4"
+                },
+                "SUCCESSFUL_SERVICES_1_CENTER": {
+                  "label": "1er services zone 'center'",
+                  "best": "",
+                  "A": "10",
+                  "B": "10"
+                },
+                "SUCCESSFUL_SERVICES_2_WIDE": {
+                  "label": "2nd services zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_2_BODY": {
+                  "label": "2nd services zone 'body'",
+                  "best": "B",
+                  "A": "6",
+                  "B": "11"
+                },
+                "SUCCESSFUL_SERVICES_2_CENTER": {
+                  "label": "2nd services zone 'center'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_WIDE": {
+                  "label": "Services zone 'wide'",
+                  "best": "A",
+                  "A": "8",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_BODY": {
+                  "label": "Services zone 'body'",
+                  "best": "B",
+                  "A": "14",
+                  "B": "15"
+                },
+                "SUCCESSFUL_SERVICES_CENTER": {
+                  "label": "Services zone 'center'",
+                  "best": "B",
+                  "A": "14",
+                  "B": "15"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE": {
+                  "label": "1er services côté 'égalité'",
+                  "best": "A",
+                  "A": "13",
+                  "B": "10"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE": {
+                  "label": "1er services côté 'avantage'",
+                  "best": "A",
+                  "A": "12",
+                  "B": "7"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE": {
+                  "label": "2nd services côté 'égalité'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "10"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE": {
+                  "label": "2nd services côté 'avantage'",
+                  "best": "B",
+                  "A": "6",
+                  "B": "9"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE": {
+                  "label": "Services côté 'égalité'",
+                  "best": "B",
+                  "A": "18",
+                  "B": "20"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE": {
+                  "label": "Services côté 'avantage'",
+                  "best": "A",
+                  "A": "18",
+                  "B": "16"
+                },
+                "SUCCESSFUL_SERVICES_1": {
+                  "label": "1er services",
+                  "best": "A",
+                  "A": "25",
+                  "B": "17"
+                },
+                "SUCCESSFUL_SERVICES_2": {
+                  "label": "2nd services",
+                  "best": "B",
+                  "A": "11",
+                  "B": "19"
+                },
+                "SUCCESSFUL_SERVICES": {
+                  "label": "Services",
+                  "best": "",
+                  "A": "36",
+                  "B": "36"
+                }
+              }
+            },
+            "ACES": {
+              "label": "Nombre d'aces",
+              "stats": {
+                "ACES_1_DEUCE_WIDE": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_DEUCE_BODY": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_DEUCE_CENTER": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_WIDE": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_BODY": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_CENTER": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'center'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "1"
+                },
+                "ACES_2_DEUCE_WIDE": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_DEUCE_BODY": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_DEUCE_CENTER": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_WIDE": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_BODY": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_CENTER": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_DEUCE_WIDE": {
+                  "label": "Aces sur services côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_DEUCE_BODY": {
+                  "label": "Aces sur services côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_DEUCE_CENTER": {
+                  "label": "Aces sur services côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_WIDE": {
+                  "label": "Aces sur services côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_BODY": {
+                  "label": "Aces sur services côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_CENTER": {
+                  "label": "Aces sur services côté 'avantage' zone 'center'",
+                  "best": "",
+                  "A": "1",
+                  "B": "1"
+                },
+                "ACES_1_WIDE": {
+                  "label": "Aces sur 1er service zone 'wide'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "0"
+                },
+                "ACES_1_BODY": {
+                  "label": "Aces sur 1er service zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_CENTER": {
+                  "label": "Aces sur 1er service zone 'center'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "1"
+                },
+                "ACES_2_WIDE": {
+                  "label": "Aces sur 2nd service zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_BODY": {
+                  "label": "Aces sur 2nd service zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_CENTER": {
+                  "label": "Aces sur 2nd service zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_WIDE": {
+                  "label": "Aces sur zone 'wide'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "0"
+                },
+                "ACES_BODY": {
+                  "label": "Aces sur zone 'body'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_CENTER": {
+                  "label": "Aces sur zone 'center'",
+                  "best": "",
+                  "A": "1",
+                  "B": "1"
+                },
+                "ACES_1_DEUCE": {
+                  "label": "Aces sur 1er service côté 'égalité'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE": {
+                  "label": "Aces sur 1er service côté 'avantage'",
+                  "best": "",
+                  "A": "1",
+                  "B": "1"
+                },
+                "ACES_2_DEUCE": {
+                  "label": "Aces sur 2nd service côté 'égalité'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE": {
+                  "label": "Aces sur 2nd service côté 'avantage'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_DEUCE": {
+                  "label": "Aces sur services côté 'égalité'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE": {
+                  "label": "Aces sur services côté 'avantage'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "1"
+                },
+                "ACES_1": {
+                  "label": "Aces sur 1er service",
+                  "best": "A",
+                  "A": "3",
+                  "B": "1"
+                },
+                "ACES_2": {
+                  "label": "Aces sur 2nd service",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES": {
+                  "label": "Aces",
+                  "best": "A",
+                  "A": "4",
+                  "B": "1"
+                }
+              }
+            }
+          }
+        },
+        "SET2": {
+          "label": "set 2",
+          "categories": {
+            "MAX_SPEED": {
+              "label": "Service le plus rapide",
+              "stats": {
+                "MAX_SPEED_1_DEUCE_WIDE": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "178",
+                  "B": "170"
+                },
+                "MAX_SPEED_1_DEUCE_BODY": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_1_DEUCE_CENTER": {
+                  "label": "Vitesse max 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "193"
+                },
+                "MAX_SPEED_1_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "199",
+                  "B": "187"
+                },
+                "MAX_SPEED_1_ADVANTAGE_BODY": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "201",
+                  "B": "191"
+                },
+                "MAX_SPEED_1_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "189"
+                },
+                "MAX_SPEED_2_DEUCE_WIDE": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "156",
+                  "B": "0"
+                },
+                "MAX_SPEED_2_DEUCE_BODY": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "176",
+                  "B": "138"
+                },
+                "MAX_SPEED_2_DEUCE_CENTER": {
+                  "label": "Vitesse max 2nd service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "167",
+                  "B": "142"
+                },
+                "MAX_SPEED_2_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "153",
+                  "B": "127"
+                },
+                "MAX_SPEED_2_ADVANTAGE_BODY": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "177",
+                  "B": "135"
+                },
+                "MAX_SPEED_2_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max 2nd service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "168",
+                  "B": "0"
+                },
+                "MAX_SPEED_DEUCE_WIDE": {
+                  "label": "Vitesse max côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "178",
+                  "B": "170"
+                },
+                "MAX_SPEED_DEUCE_BODY": {
+                  "label": "Vitesse max côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_DEUCE_CENTER": {
+                  "label": "Vitesse max côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "200",
+                  "B": "193"
+                },
+                "MAX_SPEED_ADVANTAGE_WIDE": {
+                  "label": "Vitesse max côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "199",
+                  "B": "187"
+                },
+                "MAX_SPEED_ADVANTAGE_BODY": {
+                  "label": "Vitesse max côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "201",
+                  "B": "191"
+                },
+                "MAX_SPEED_ADVANTAGE_CENTER": {
+                  "label": "Vitesse max côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "189"
+                },
+                "MAX_SPEED_1_WIDE": {
+                  "label": "Vitesse max 1er service zone 'wide'",
+                  "best": "A",
+                  "A": "199",
+                  "B": "187"
+                },
+                "MAX_SPEED_1_BODY": {
+                  "label": "Vitesse max 1er service zone 'body'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_1_CENTER": {
+                  "label": "Vitesse max 1er service zone 'center'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "193"
+                },
+                "MAX_SPEED_2_WIDE": {
+                  "label": "Vitesse max 2nd service zone 'wide'",
+                  "best": "A",
+                  "A": "156",
+                  "B": "127"
+                },
+                "MAX_SPEED_2_BODY": {
+                  "label": "Vitesse max 2nd service zone 'body'",
+                  "best": "A",
+                  "A": "177",
+                  "B": "138"
+                },
+                "MAX_SPEED_2_CENTER": {
+                  "label": "Vitesse max 2nd service zone 'center'",
+                  "best": "A",
+                  "A": "168",
+                  "B": "142"
+                },
+                "MAX_SPEED_WIDE": {
+                  "label": "Vitesse max zone 'wide'",
+                  "best": "A",
+                  "A": "199",
+                  "B": "187"
+                },
+                "MAX_SPEED_BODY": {
+                  "label": "Vitesse max zone 'body'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_CENTER": {
+                  "label": "Vitesse max zone 'center'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "193"
+                },
+                "MAX_SPEED_1_DEUCE": {
+                  "label": "Vitesse max 1er service côté 'égalité'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_1_ADVANTAGE": {
+                  "label": "Vitesse max 1er service côté 'avantage'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "191"
+                },
+                "MAX_SPEED_2_DEUCE": {
+                  "label": "Vitesse max 2nd service côté 'égalité'",
+                  "best": "A",
+                  "A": "176",
+                  "B": "142"
+                },
+                "MAX_SPEED_2_ADVANTAGE": {
+                  "label": "Vitesse max 2nd service côté 'avantage'",
+                  "best": "A",
+                  "A": "177",
+                  "B": "135"
+                },
+                "MAX_SPEED_DEUCE": {
+                  "label": "Vitesse max côté 'égalité'",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_ADVANTAGE": {
+                  "label": "Vitesse max côté 'avantage'",
+                  "best": "A",
+                  "A": "204",
+                  "B": "191"
+                },
+                "MAX_SPEED_1": {
+                  "label": "Vitesse max 1er service",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                },
+                "MAX_SPEED_2": {
+                  "label": "Vitesse max 2nd service",
+                  "best": "A",
+                  "A": "177",
+                  "B": "142"
+                },
+                "MAX_SPEED": {
+                  "label": "Vitesse max",
+                  "best": "A",
+                  "A": "208",
+                  "B": "195"
+                }
+              }
+            },
+            "AVG_SPEED": {
+              "label": "Service vitesse moyenne",
+              "stats": {
+                "AVG_SPEED_1_DEUCE_WIDE": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "178",
+                  "B": "167"
+                },
+                "AVG_SPEED_1_DEUCE_BODY": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "195",
+                  "B": "190"
+                },
+                "AVG_SPEED_1_DEUCE_CENTER": {
+                  "label": "Vitesse moyenne 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "196",
+                  "B": "189"
+                },
+                "AVG_SPEED_1_ADVANTAGE_WIDE": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "195",
+                  "B": "184"
+                },
+                "AVG_SPEED_1_ADVANTAGE_BODY": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "199",
+                  "B": "191"
+                },
+                "AVG_SPEED_1_ADVANTAGE_CENTER": {
+                  "label": "Vitesse moyenne 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "201",
+                  "B": "188"
+                },
+                "AVG_SPEED_2_DEUCE_WIDE": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "156",
+                  "B": "0"
+                },
+                "AVG_SPEED_2_DEUCE_BODY": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "165",
+                  "B": "135"
+                },
+                "AVG_SPEED_2_DEUCE_CENTER": {
+                  "label": "Vitesse moyenne 2e service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "167",
+                  "B": "142"
+                },
+                "AVG_SPEED_2_ADVANTAGE_WIDE": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "153",
+                  "B": "123"
+                },
+                "AVG_SPEED_2_ADVANTAGE_BODY": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "169",
+                  "B": "131"
+                },
+                "AVG_SPEED_2_ADVANTAGE_CENTER": {
+                  "label": "Vitesse moyenne 2e service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "164",
+                  "B": "0"
+                },
+                "AVG_SPEED_1": {
+                  "label": "Vitesse moyenne 1er service",
+                  "best": "A",
+                  "A": "196",
+                  "B": "184"
+                },
+                "AVG_SPEED_2": {
+                  "label": "Vitesse moyenne 2e service",
+                  "best": "A",
+                  "A": "163",
+                  "B": "131"
+                }
+              }
+            },
+            "WON_POINTS": {
+              "label": "Points gagnés sur service",
+              "stats": {
+                "WON_POINTS_1_DEUCE_WIDE": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'wide'",
+                  "best": "",
+                  "A": "1",
+                  "B": "1"
+                },
+                "WON_POINTS_1_DEUCE_BODY": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'body'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "2"
+                },
+                "WON_POINTS_1_DEUCE_CENTER": {
+                  "label": "Points sur 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "WON_POINTS_1_ADVANTAGE_WIDE": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'wide'",
+                  "best": "",
+                  "A": "3",
+                  "B": "3"
+                },
+                "WON_POINTS_1_ADVANTAGE_BODY": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "1"
+                },
+                "WON_POINTS_1_ADVANTAGE_CENTER": {
+                  "label": "Points sur 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "2"
+                },
+                "WON_POINTS_2_DEUCE_WIDE": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "WON_POINTS_2_DEUCE_BODY": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'body'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "WON_POINTS_2_DEUCE_CENTER": {
+                  "label": "Points sur 2nd service côté 'égalité' zone 'center'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "1"
+                },
+                "WON_POINTS_2_ADVANTAGE_WIDE": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'wide'",
+                  "best": "B",
+                  "A": "0",
+                  "B": "2"
+                },
+                "WON_POINTS_2_ADVANTAGE_BODY": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "1",
+                  "B": "1"
+                },
+                "WON_POINTS_2_ADVANTAGE_CENTER": {
+                  "label": "Points sur 2nd service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "WON_POINTS_DEUCE_WIDE": {
+                  "label": "Points sur côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "1"
+                },
+                "WON_POINTS_DEUCE_BODY": {
+                  "label": "Points sur côté 'égalité' zone 'body'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "4"
+                },
+                "WON_POINTS_DEUCE_CENTER": {
+                  "label": "Points sur côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "3",
+                  "B": "3"
+                },
+                "WON_POINTS_ADVANTAGE_WIDE": {
+                  "label": "Points sur côté 'avantage' zone 'wide'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "5"
+                },
+                "WON_POINTS_ADVANTAGE_BODY": {
+                  "label": "Points sur côté 'avantage' zone 'body'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "2"
+                },
+                "WON_POINTS_ADVANTAGE_CENTER": {
+                  "label": "Points sur côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "2"
+                },
+                "WON_POINTS_1_WIDE": {
+                  "label": "Points sur 1er service zone 'wide'",
+                  "best": "",
+                  "A": "4",
+                  "B": "4"
+                },
+                "WON_POINTS_1_BODY": {
+                  "label": "Points sur 1er service zone 'body'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "3"
+                },
+                "WON_POINTS_1_CENTER": {
+                  "label": "Points sur 1er service zone 'center'",
+                  "best": "A",
+                  "A": "7",
+                  "B": "4"
+                },
+                "WON_POINTS_2_WIDE": {
+                  "label": "Points sur 2nd service zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "2"
+                },
+                "WON_POINTS_2_BODY": {
+                  "label": "Points sur 2nd service zone 'body'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "3"
+                },
+                "WON_POINTS_2_CENTER": {
+                  "label": "Points sur 2nd service zone 'center'",
+                  "best": "",
+                  "A": "1",
+                  "B": "1"
+                },
+                "WON_POINTS_WIDE": {
+                  "label": "Points zone 'wide'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "6"
+                },
+                "WON_POINTS_BODY": {
+                  "label": "Points zone 'body'",
+                  "best": "",
+                  "A": "6",
+                  "B": "6"
+                },
+                "WON_POINTS_CENTER": {
+                  "label": "Points zone 'center'",
+                  "best": "A",
+                  "A": "8",
+                  "B": "5"
+                },
+                "WON_POINTS_1_DEUCE": {
+                  "label": "Points sur 1er service côté 'égalité'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "5"
+                },
+                "WON_POINTS_1_ADVANTAGE": {
+                  "label": "Points sur 1er service côté 'avantage'",
+                  "best": "A",
+                  "A": "9",
+                  "B": "6"
+                },
+                "WON_POINTS_2_DEUCE": {
+                  "label": "Points sur 2nd service côté 'égalité'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "3"
+                },
+                "WON_POINTS_2_ADVANTAGE": {
+                  "label": "Points sur 2nd service côté 'avantage'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "3"
+                },
+                "WON_POINTS_DEUCE": {
+                  "label": "Points gagnés sur côté 'égalité'",
+                  "best": "",
+                  "A": "8",
+                  "B": "8"
+                },
+                "WON_POINTS_ADVANTAGE": {
+                  "label": "Points gagnés sur côté 'avantage'",
+                  "best": "A",
+                  "A": "11",
+                  "B": "9"
+                },
+                "WON_POINTS_1": {
+                  "label": "Points gagnés sur 1e balle",
+                  "best": "A",
+                  "A": "13",
+                  "B": "11"
+                },
+                "WON_POINTS_2": {
+                  "label": "Points gagnés sur 2e balle",
+                  "best": "",
+                  "A": "6",
+                  "B": "6"
+                },
+                "WON_POINTS": {
+                  "label": "Points gagnés",
+                  "best": "A",
+                  "A": "19",
+                  "B": "17"
+                }
+              }
+            },
+            "SUCCESSFUL_SERVICES": {
+              "label": "Service réussis",
+              "stats": {
+                "SUCCESSFUL_SERVICES_1_DEUCE_WIDE": {
+                  "label": "1er services côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE_BODY": {
+                  "label": "1er services côté 'égalité' zone 'body'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE_CENTER": {
+                  "label": "1er services côté 'égalité' zone 'center'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "4"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_WIDE": {
+                  "label": "1er services côté 'avantage' zone 'wide'",
+                  "best": "",
+                  "A": "3",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_BODY": {
+                  "label": "1er services côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "2",
+                  "B": "2"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE_CENTER": {
+                  "label": "1er services côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "5",
+                  "B": "2"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_WIDE": {
+                  "label": "2nd services côté 'égalité' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_BODY": {
+                  "label": "2nd services côté 'égalité' zone 'body'",
+                  "best": "B",
+                  "A": "3",
+                  "B": "4"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE_CENTER": {
+                  "label": "2nd services côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "1",
+                  "B": "1"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_WIDE": {
+                  "label": "2nd services côté 'avantage' zone 'wide'",
+                  "best": "B",
+                  "A": "1",
+                  "B": "2"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_BODY": {
+                  "label": "2nd services côté 'avantage' zone 'body'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE_CENTER": {
+                  "label": "2nd services côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "2",
+                  "B": "0"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_WIDE": {
+                  "label": "Services côté 'égalité' zone 'wide'",
+                  "best": "B",
+                  "A": "2",
+                  "B": "3"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_BODY": {
+                  "label": "Services côté 'égalité' zone 'body'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "7"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE_CENTER": {
+                  "label": "Services côté 'égalité' zone 'center'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_WIDE": {
+                  "label": "Services côté 'avantage' zone 'wide'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_BODY": {
+                  "label": "Services côté 'avantage' zone 'body'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "7"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE_CENTER": {
+                  "label": "Services côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "7",
+                  "B": "2"
+                },
+                "SUCCESSFUL_SERVICES_1_WIDE": {
+                  "label": "1er services zone 'wide'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_1_BODY": {
+                  "label": "1er services zone 'body'",
+                  "best": "B",
+                  "A": "4",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_1_CENTER": {
+                  "label": "1er services zone 'center'",
+                  "best": "A",
+                  "A": "8",
+                  "B": "6"
+                },
+                "SUCCESSFUL_SERVICES_2_WIDE": {
+                  "label": "2nd services zone 'wide'",
+                  "best": "",
+                  "A": "2",
+                  "B": "2"
+                },
+                "SUCCESSFUL_SERVICES_2_BODY": {
+                  "label": "2nd services zone 'body'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "9"
+                },
+                "SUCCESSFUL_SERVICES_2_CENTER": {
+                  "label": "2nd services zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "1"
+                },
+                "SUCCESSFUL_SERVICES_WIDE": {
+                  "label": "Services zone 'wide'",
+                  "best": "B",
+                  "A": "6",
+                  "B": "8"
+                },
+                "SUCCESSFUL_SERVICES_BODY": {
+                  "label": "Services zone 'body'",
+                  "best": "B",
+                  "A": "9",
+                  "B": "14"
+                },
+                "SUCCESSFUL_SERVICES_CENTER": {
+                  "label": "Services zone 'center'",
+                  "best": "A",
+                  "A": "11",
+                  "B": "7"
+                },
+                "SUCCESSFUL_SERVICES_1_DEUCE": {
+                  "label": "1er services côté 'égalité'",
+                  "best": "B",
+                  "A": "6",
+                  "B": "10"
+                },
+                "SUCCESSFUL_SERVICES_1_ADVANTAGE": {
+                  "label": "1er services côté 'avantage'",
+                  "best": "A",
+                  "A": "10",
+                  "B": "7"
+                },
+                "SUCCESSFUL_SERVICES_2_DEUCE": {
+                  "label": "2nd services côté 'égalité'",
+                  "best": "",
+                  "A": "5",
+                  "B": "5"
+                },
+                "SUCCESSFUL_SERVICES_2_ADVANTAGE": {
+                  "label": "2nd services côté 'avantage'",
+                  "best": "B",
+                  "A": "5",
+                  "B": "7"
+                },
+                "SUCCESSFUL_SERVICES_DEUCE": {
+                  "label": "Services côté 'égalité'",
+                  "best": "B",
+                  "A": "11",
+                  "B": "15"
+                },
+                "SUCCESSFUL_SERVICES_ADVANTAGE": {
+                  "label": "Services côté 'avantage'",
+                  "best": "A",
+                  "A": "15",
+                  "B": "14"
+                },
+                "SUCCESSFUL_SERVICES_1": {
+                  "label": "1er services",
+                  "best": "B",
+                  "A": "16",
+                  "B": "17"
+                },
+                "SUCCESSFUL_SERVICES_2": {
+                  "label": "2nd services",
+                  "best": "B",
+                  "A": "10",
+                  "B": "12"
+                },
+                "SUCCESSFUL_SERVICES": {
+                  "label": "Services",
+                  "best": "B",
+                  "A": "26",
+                  "B": "29"
+                }
+              }
+            },
+            "ACES": {
+              "label": "Nombre d'aces",
+              "stats": {
+                "ACES_1_DEUCE_WIDE": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_1_DEUCE_BODY": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_1_DEUCE_CENTER": {
+                  "label": "Aces sur 1er service côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_WIDE": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_BODY": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE_CENTER": {
+                  "label": "Aces sur 1er service côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "0"
+                },
+                "ACES_2_DEUCE_WIDE": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_DEUCE_BODY": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_DEUCE_CENTER": {
+                  "label": "Aces sur 2nd service côté 'égalité' zone 'center'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_WIDE": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_BODY": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE_CENTER": {
+                  "label": "Aces sur 2nd service côté 'avantage' zone 'center'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_DEUCE_WIDE": {
+                  "label": "Aces sur services côté 'égalité' zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_DEUCE_BODY": {
+                  "label": "Aces sur services côté 'égalité' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_DEUCE_CENTER": {
+                  "label": "Aces sur services côté 'égalité' zone 'center'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_WIDE": {
+                  "label": "Aces sur services côté 'avantage' zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_BODY": {
+                  "label": "Aces sur services côté 'avantage' zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE_CENTER": {
+                  "label": "Aces sur services côté 'avantage' zone 'center'",
+                  "best": "A",
+                  "A": "3",
+                  "B": "0"
+                },
+                "ACES_1_WIDE": {
+                  "label": "Aces sur 1er service zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_BODY": {
+                  "label": "Aces sur 1er service zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_1_CENTER": {
+                  "label": "Aces sur 1er service zone 'center'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "0"
+                },
+                "ACES_2_WIDE": {
+                  "label": "Aces sur 2nd service zone 'wide'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_BODY": {
+                  "label": "Aces sur 2nd service zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_CENTER": {
+                  "label": "Aces sur 2nd service zone 'center'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_WIDE": {
+                  "label": "Aces sur zone 'wide'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_BODY": {
+                  "label": "Aces sur zone 'body'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_CENTER": {
+                  "label": "Aces sur zone 'center'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "0"
+                },
+                "ACES_1_DEUCE": {
+                  "label": "Aces sur 1er service côté 'égalité'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_1_ADVANTAGE": {
+                  "label": "Aces sur 1er service côté 'avantage'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "0"
+                },
+                "ACES_2_DEUCE": {
+                  "label": "Aces sur 2nd service côté 'égalité'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_2_ADVANTAGE": {
+                  "label": "Aces sur 2nd service côté 'avantage'",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES_DEUCE": {
+                  "label": "Aces sur services côté 'égalité'",
+                  "best": "A",
+                  "A": "1",
+                  "B": "0"
+                },
+                "ACES_ADVANTAGE": {
+                  "label": "Aces sur services côté 'avantage'",
+                  "best": "A",
+                  "A": "4",
+                  "B": "0"
+                },
+                "ACES_1": {
+                  "label": "Aces sur 1er service",
+                  "best": "A",
+                  "A": "5",
+                  "B": "0"
+                },
+                "ACES_2": {
+                  "label": "Aces sur 2nd service",
+                  "best": "",
+                  "A": "0",
+                  "B": "0"
+                },
+                "ACES": {
+                  "label": "Aces",
+                  "best": "A",
+                  "A": "5",
+                  "B": "0"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
